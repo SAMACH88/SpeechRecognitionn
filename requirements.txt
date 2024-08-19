@@ -1,0 +1,18 @@
+numpy
+Pillow
+speechrecognition==3.10.4
+pyaudio
+pocketsphinx
+streamlit-webrtc
+streamlit_option_menu
+easyocr
+streamlit
+opencv-python-headless==4.5.5.64
+mmdet
+mmocr
+paddleocr
+paddlepaddle
+mycolorpy
+plotly
+plotly-express
+mmcv-full --no-binary mmcv-full
